@@ -1,0 +1,5 @@
+name: BedWars
+api: 4.0.0
+main: bedwars\Loader
+author: TheBlitzCode
+version: 1.0
